@@ -1,4 +1,4 @@
-# Restaurant_Reviews_analysis
+# Restaurant_Reviews_Analysis
 For any restaurant manager it is essential to know feedbacks from customers (are they satisfy with service? what they feel about
 food? are they really like that? if not then what is the reason? is there any scope of improment?) Each owner wants a 
 happy customer.
